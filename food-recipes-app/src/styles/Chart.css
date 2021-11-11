@@ -1,0 +1,17 @@
+svg {
+  padding: 5vmin;
+  font-size: 3vmin;
+}
+
+.select-bar-chart {
+  margin-left: 2vmin;
+  margin-right: 2vmin;
+  margin-bottom: 1vmin;
+}
+
+.button-draw {
+  margin-left: 3vmin;
+  width: 12vmin;
+  height: 5vh;
+  font-size: 3vmin;
+}

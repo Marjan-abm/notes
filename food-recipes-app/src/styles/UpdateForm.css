@@ -1,0 +1,44 @@
+.table-update {
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+}
+
+label {
+  vertical-align: auto;
+}
+
+.input-update {
+  vertical-align: middle;
+  width: 25vw;
+  height: 2.5vh;
+  font-size: medium;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+}
+
+.textarea {
+  vertical-align: middle;
+  width: 25vw;
+  height: 15vh;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  resize: none;
+  font-size: large;
+}
+
+select {
+  font-size: calc(8px + 1.5vmin);
+}
+
+.button-update {
+  margin-top: 2vmin;
+  margin-bottom: 2vmin;
+  margin-left: 4vmin;
+  margin-right: 4vmin;
+  width: 23vmin;
+  height: 5vmin;
+  font-size: 3vmin;
+}

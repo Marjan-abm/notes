@@ -1,0 +1,30 @@
+.list-item {
+  text-align: justify;
+  border: 2px solid lightslategrey;
+  margin-bottom: 0.5vmin;
+}
+
+.food-image {
+  width: 5vmin;
+  height: 5vmin;
+  margin-left: 3vmin;
+  margin-right: 3vmin;
+  vertical-align: middle;
+}
+
+.link-recipe {
+  background-color: white;
+  color: black;
+  padding-right: 10vmin;
+  text-align: center;
+  text-decoration: none;
+  display: inline;
+}
+
+.button-more {
+  width: 12vmin;
+  height: 6vmin;
+  font-size: 3vmin;
+  margin-top: 2vmin;
+  margin-bottom: 2vmin;
+}

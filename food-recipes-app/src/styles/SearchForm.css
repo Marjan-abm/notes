@@ -1,0 +1,25 @@
+.form-search {
+  align-items: center;
+  vertical-align: middle;
+  display: inline-block;
+}
+
+.label-search {
+  text-align: center;
+  display: inline-block;
+}
+
+.input-search {
+  width: 8vw;
+  margin-left: 1vmin;
+  margin-right: 1vmin;
+}
+
+.button-search {
+  width: 15vmin;
+  height: 5vh;
+  margin-top: 2vmin;
+  margin-left: 2vmin;
+  margin-right: 2vmin;
+  font-size: 2.5vmin;
+}

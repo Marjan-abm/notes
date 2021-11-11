@@ -1,0 +1,40 @@
+.table-detail, .td-detail {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.table-detail {
+  width: 120vmin;
+  height: 80vmin;
+  table-layout: fixed;
+}
+
+.tr-detail {
+  align-items: center;
+}
+
+.td-detail {
+  align-items: center;
+  vertical-align: top;
+}
+
+.button-container {
+  padding-top: 3vmin;
+  padding-bottom: 3vmin;
+}
+
+.button-add-remove-fav {
+  font-size: 2.5vmin;
+  width: 27vmin;
+  height: 6vh;
+}
+
+.table-container {
+  padding-top: 5vmin;
+}
+
+.ul-meal-types {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}

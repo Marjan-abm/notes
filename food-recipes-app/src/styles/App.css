@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.h1 {
+  background:lightgreen;
+  color:saddlebrown;
+  padding: 3vmin;
+  font-size: calc(10px + 3vmin);
+  font-weight: bold;
+}
+
+.tabs-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(110, 90, 66);
+}
+
+.App-link {
+  color: #61dafb;
+}
